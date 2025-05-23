@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>blockproductscustom</name>
+    <displayName>Block Products Custom</displayName>
+    <version>1.0.0</version>
+    <author>Philippe Lavocat</author>
+    <description>Affiche un bloc de produits personnalisés.</description>
+    <tab>front_office_features</tab>
+    <need_instance>0</need_instance>
+    <is_configurable>0</is_configurable>
+</module>

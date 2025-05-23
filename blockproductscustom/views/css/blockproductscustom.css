@@ -1,0 +1,37 @@
+/* CSS du module Block Products Custom 
+.home_products_picture {
+  width: 20%;
+  height: auto;
+  overflow: hidden;
+}
+  
+.home_products_picture img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.home_products_picture, 
+.home_products_info {
+  display: inline-block;
+}
+.home_products_info {
+    vertical-align: top;
+}
+.home_products_info {
+    max-width: 70% !important;
+}
+*/
+.blockcustom_picture img {
+  width: 100%;
+}
+.blockcustom_book.product {
+  margin-bottom: 10px;
+}
+.blockcustom_book.product {
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-width: 0 0 1px 0;
+    padding-bottom: 10px;
+}
+
